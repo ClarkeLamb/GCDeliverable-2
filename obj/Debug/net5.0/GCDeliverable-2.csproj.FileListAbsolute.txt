@@ -1,0 +1,16 @@
+C:\Users\cflam\source\repos\GCDeliverable-2\GCDeliverable-2\bin\Debug\net5.0\GCDeliverable-2.exe
+C:\Users\cflam\source\repos\GCDeliverable-2\GCDeliverable-2\bin\Debug\net5.0\GCDeliverable-2.deps.json
+C:\Users\cflam\source\repos\GCDeliverable-2\GCDeliverable-2\bin\Debug\net5.0\GCDeliverable-2.runtimeconfig.json
+C:\Users\cflam\source\repos\GCDeliverable-2\GCDeliverable-2\bin\Debug\net5.0\GCDeliverable-2.runtimeconfig.dev.json
+C:\Users\cflam\source\repos\GCDeliverable-2\GCDeliverable-2\bin\Debug\net5.0\GCDeliverable-2.dll
+C:\Users\cflam\source\repos\GCDeliverable-2\GCDeliverable-2\bin\Debug\net5.0\ref\GCDeliverable-2.dll
+C:\Users\cflam\source\repos\GCDeliverable-2\GCDeliverable-2\bin\Debug\net5.0\GCDeliverable-2.pdb
+C:\Users\cflam\source\repos\GCDeliverable-2\GCDeliverable-2\obj\Debug\net5.0\GCDeliverable-2.csprojAssemblyReference.cache
+C:\Users\cflam\source\repos\GCDeliverable-2\GCDeliverable-2\obj\Debug\net5.0\GCDeliverable-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cflam\source\repos\GCDeliverable-2\GCDeliverable-2\obj\Debug\net5.0\GCDeliverable-2.AssemblyInfoInputs.cache
+C:\Users\cflam\source\repos\GCDeliverable-2\GCDeliverable-2\obj\Debug\net5.0\GCDeliverable-2.AssemblyInfo.cs
+C:\Users\cflam\source\repos\GCDeliverable-2\GCDeliverable-2\obj\Debug\net5.0\GCDeliverable-2.csproj.CoreCompileInputs.cache
+C:\Users\cflam\source\repos\GCDeliverable-2\GCDeliverable-2\obj\Debug\net5.0\GCDeliverable-2.dll
+C:\Users\cflam\source\repos\GCDeliverable-2\GCDeliverable-2\obj\Debug\net5.0\ref\GCDeliverable-2.dll
+C:\Users\cflam\source\repos\GCDeliverable-2\GCDeliverable-2\obj\Debug\net5.0\GCDeliverable-2.pdb
+C:\Users\cflam\source\repos\GCDeliverable-2\GCDeliverable-2\obj\Debug\net5.0\GCDeliverable-2.genruntimeconfig.cache
